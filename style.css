@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+    padding: 0%;
+}
+.img_bg{
+    
+    background-image:url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3iCcTUjgXDk4FMwpIFt6-eKhW37siPIdot-pLMzviCPcP-6ER');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    display: flex;
+}
